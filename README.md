@@ -1,4 +1,4 @@
-# tech-performance-curves
+# [tech-performance-curves](https://westurner.github.io/tech-performance-curves/)
 
 ![Cog's Ladder, Comfort Zones, Performance Management, Carnal Coping Cycle, White-Fairhurst TPR Transforming-Performing-Reforming, Adjourning, Chained Power Curves](team_curves-v0.0.16.plain.svg)
 
